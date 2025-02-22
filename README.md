@@ -9,25 +9,6 @@ A MERN Stack-based Transactions Dashboard that enables users to view, filter, an
 ✅ Fully responsive React.js frontend
 ✅ Node.js & Express.js backend connected to MongoDB
 
-📂 Project Structure
-Roxiler_Assignment/
-├── Backend/                # Node.js + Express.js API
-│   ├── models/             # Mongoose Models
-│   ├── routes/             # API Routes (Transactions, Charts, etc.)
-│   ├── config/             # Database Configuration
-│   ├── server.js           # Main Backend Server
-│   ├── package.json        # Backend Dependencies
-├── Frontend/               # React.js Client
-│   ├── src/
-│   │   ├── components/     # UI Components (Navbar, Charts, etc.)
-│   │   ├── pages/          # Main Pages (Dashboard)
-│   │   ├── styles/         # CSS for Styling
-│   │   ├── App.js          # Main React App File
-│   │   ├── index.js        # React Entry Point
-│   ├── package.json        # Frontend Dependencies
-├── .gitignore              # Ignore unnecessary files
-├── README.md               # Project Documentation
-
 🛠 Tech Stack
 Technology	Usage
 React.js	Frontend UI
