@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+.env
+package-lock.json
+yarn.lock
+
+# Logs & Cache
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# Build folders
+frontend/build
+backend/dist
